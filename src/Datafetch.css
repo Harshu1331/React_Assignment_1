@@ -1,0 +1,25 @@
+.bookList {
+    list-style: none;
+    padding: 0;
+}
+
+.bookList li {
+    display: inline-block;
+    height: 200px;
+    width: 32%;
+    margin: 10px;
+}
+
+.bookList li img {
+    width: 75px;
+    height: 75px;
+    height: auto;
+}
+.btn-pri{
+    background-color: skyblue;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+.btn-pri:hover{
+    cursor: pointer;
+}
